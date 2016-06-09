@@ -379,11 +379,11 @@ img.overlay.color-image {
 
     .slide-social .button {
         position: absolute;
-        margin-left: 50%;
+        margin-left: 60%;
     }
 
     .slide-social .facebook-button {
-        margin-left: 47%;
+        margin-left: 55%;
     }
 
     .slide-social .twitter-button {
@@ -391,7 +391,7 @@ img.overlay.color-image {
     }
 
     .slide-social .instagram-button {
-        margin-left: 46%;
+        margin-left: 57.5%;
     }
 }
 
