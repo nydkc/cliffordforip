@@ -9,6 +9,10 @@
     src: url(../fonts/myriad-pro-bold.otf) format("opentype");
 }
 @font-face {
+font-family: "Walk Around the Block";
+src: url(walk-around-the-block.ttf) format("truetype");
+}
+@font-face {
     font-family: "Century Gothic";
     src: url(../fonts/century-gothic.ttf) format("truetype");
 }
